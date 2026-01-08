@@ -1,15 +1,1 @@
-<img width="1026" height="854" alt="05-server-desktop" src="https://github.com/user-attachments/assets/b0c490bc-55f3-48c9-b669-01915678762e" />
-<img width="1025" height="853" alt="04-server-os-setup" src="https://github.com/user-attachments/assets/b4af2f22-764d-4ab2-9b03-19b371092069" />
-<img width="962" height="751" alt="03-server-edition" src="https://github.com/user-attachments/assets/a42e0bbb-f1ff-475c-ad1f-af8f74c23a6b" />
-<img width="962" height="751" alt="02-vm-settings" src="https://github.com/user-attachments/assets/aaee6759-b39a-4fc9-b3db-e73d53930be1" />
-<img width="1918" height="1031" alt="01-iso-files" src="https://github.com/user-attachments/assets/e066f207-3ba1-479b-be34-81cb38a10740" />
-<img width="1026" height="854" alt="15--ad-users-computers" src="https://github.com/user-attachments/assets/2c9ea42a-9eaf-4f78-b797-0a4d45760e41" />
-<img width="1026" height="854" alt="14-server-manager-roles" src="https://github.com/user-attachments/assets/6df14f74-96d8-4747-bec1-607a9a783b2c" />
-<img width="1026" height="854" alt="13-login-screen" src="https://github.com/user-attachments/assets/5a2a9d5b-3255-4ea1-a98a-b2d83b32f5a3" />
-<img width="1026" height="854" alt="12-prerequisites-check" src="https://github.com/user-attachments/assets/9e3b91b4-3d3f-4515-817f-5665754779af" />
-<img width="1026" height="854" alt="11-domain-config" src="https://github.com/user-attachments/assets/3ea8eea5-4e73-484f-9a01-0e965040532f" />
-<img width="1026" height="854" alt="10-promote-notification" src="https://github.com/user-attachments/assets/309e9b03-6383-46e9-95be-99f0db40583a" />
-<img width="1026" height="854" alt="09-installation-complete" src="https://github.com/user-attachments/assets/5b95e651-b278-4d20-8a55-e8d4b33307e4" />
-<img width="1026" height="854" alt="08-ad-role-selected" src="https://github.com/user-attachments/assets/efd6050a-289e-414d-872a-2a3304417923" />
-<img width="1026" height="854" alt="07-add-roles-wizard" src="https://github.com/user-attachments/assets/45745b57-43ad-4018-9675-0cc1bd53a8cd" />
-<img width="1026" height="854" alt="06-static-ip" src="https://github.com/user-attachments/assets/b87e9aa5-4bb3-46bf-afd1-ee80083a5204" />
+
