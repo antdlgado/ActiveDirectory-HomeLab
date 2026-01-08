@@ -240,7 +240,7 @@ Added a user from Management to the IT_Team group, demonstrating how users can h
 
 ![Member of Multiple Groups](../Screenshots/33-member-of-multiple-groups.png)
 
-![IT Team with Cross-Department Member](../Screenshots/37-member-of-multiple-groups-2.png)
+![IT Team with Cross-Department Member](../Screenshots/37-member-of-multiple-groups-2.png.png)
 
 **Real-world application:** Users often need access to resources outside their primary department. Managers might need IT access, or project teams might span departments.
 
