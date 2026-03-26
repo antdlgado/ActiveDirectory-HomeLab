@@ -190,7 +190,7 @@ This project demonstrates:
 
 **Anthony Lombardo**
 - 📧 Email: anthonylombardodelgado@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/anthony-lombardo]([https://www.linkedin.com/in/anthony-lombardo](https://www.linkedin.com/in/anthony-lombardo-delgado-a2b15a27b/))
+- 💼 LinkedIn: [linkedin.com/in/anthony-lombardo-delgado](https://www.linkedin.com/in/anthony-lombardo-delgado-a2b15a27b/)
 - 📍 Location: Palm Bay, FL
 - 🎓 Education: A.S. in Cybersecurity & Network Systems (Expected Dec 2026)
 - 🏆 Certifications: CompTIA Security+ (March 2025)
