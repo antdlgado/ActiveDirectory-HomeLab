@@ -350,7 +350,7 @@ This lab mirrors real enterprise Active Directory implementations:
 - **Help Desk Workflows**: The scenarios practiced are the exact tasks performed daily in IT support roles
 
 ### Interview Preparation
-This project provides concrete examples for interview questions:
+This project will provide concrete examples for interview questions:
 
 - "Have you worked with Active Directory?" → Yes, I built a domain from scratch
 - "Can you reset passwords?" → Yes, I practiced this in my home lab
